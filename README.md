@@ -33,6 +33,9 @@ This project is an interactive HR Analytics dashboard built using Tableau to ana
 
 ![Dashboard](dashboard.png)
 
+## Live Dashboard
+[View on Tableau Public](https://public.tableau.com/app/profile/dishita.1755/viz/HR_Analytics_Dashboard_17750275855910/Dashboard?publish=yes)
+
 ## How to Use
 
 1. Download the `.twbx` file
