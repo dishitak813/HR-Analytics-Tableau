@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an interactive HR Analytics dashboard built using Tableau to analyze employee attrition patterns.
+This project is an interactive HR Analytics dashboard built using Tableau to analyse employee attrition patterns.
 
 ## Key Features
 
@@ -11,7 +11,7 @@ This project is an interactive HR Analytics dashboard built using Tableau to ana
 * Donut charts for gender-wise attrition visualisation
 * KPI cards for quick business insights
 
-## 🛠 Tools Used
+## Tools Used
 
 * Tableau
 * Data Visualization
