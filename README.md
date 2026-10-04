@@ -24,6 +24,13 @@ This project is an interactive HR Analytics dashboard built using Tableau to ana
 * Male attrition is higher than female across most age groups
 * Sales roles show higher turnover trends
 
+## Statistical Analysis (Python)
+
+This repository also includes a Jupyter notebook (hr_attrition_analysis.ipynb) applying hypothesis testing to the same dataset:
+* Chi-square test: overtime is strongly associated with attrition (p < 0.001)
+* T-test: employees who left earned significantly less on average (p < 0.001)
+* ANOVA: work-life balance differs modestly across departments (p = 0.015)
+
 ## Files
 
 * Tableau Packaged Workbook (.twbx)
